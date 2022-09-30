@@ -3,3 +3,10 @@
 ################################################################################
 
 /DomainModel/bin/Debug
+/.vs/Scheduler/FileContentIndex
+/.vs/Scheduler/config/applicationhost.config
+/DomainModel/obj/Debug
+/packages
+/StratexTest/bin
+/StratexTest/obj/Debug
+/.vs/Scheduler/v17/.suo
